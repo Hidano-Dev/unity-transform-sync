@@ -1,0 +1,14 @@
+{
+  "name": "com.hidano.transform-sync",
+  "version": "1.0.0",
+  "displayName": "Transform Sync",
+  "description": "A simple transform synchronization tool for Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Hidano"
+  },
+  "keywords": ["transform", "synchronization", "unity"],
+  "dependencies": {
+  },
+  "license": "MIT"
+}
